@@ -1,7 +1,7 @@
 {
 "companyName": "MSG",
 "productName": "ScrapMetal 3",
-"dataUrl": "ScrapMetal3.data.unityweb",
+"dataUrl": "https://overloadfiles.vercel.app/scrapmetal/ScrapMetal3.data.unityweb",
 "wasmCodeUrl": "ScrapMetal3.wasm.code.unityweb",
 "wasmFrameworkUrl": "ScrapMetal3.wasm.framework.unityweb",
 "TOTAL_MEMORY": 486539264,

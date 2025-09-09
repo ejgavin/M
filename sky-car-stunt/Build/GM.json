@@ -1,7 +1,7 @@
 {
 "companyName": "Feenu",
 "productName": "Sky Car Stunt 3D",
-"dataUrl": "GM.data.unityweb",
+"dataUrl": "https://overloadfiles.vercel.app/sky-car-stunt/Build/GM.data.unityweb",
 "asmCodeUrl": "GM.asm.code.unityweb",
 "asmMemoryUrl": "GM.asm.memory.unityweb",
 "asmFrameworkUrl": "GM.asm.framework.unityweb",

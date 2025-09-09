@@ -1,7 +1,7 @@
 {
   "companyName": "Squid Squad Games",
   "productName": "Tanuki Sunset",
-  "dataUrl": "unity/tanuki.data.unityweb",
+  "dataUrl": "https://overloadfiles.vercel.app/tanuki-sunset/unity/tanuki.data.unityweb",
   "wasmCodeUrl": "unity/tanuki.wasm.code.unityweb",
   "wasmFrameworkUrl": "unity/tanuki.wasm.framework.unityweb",
   "TOTAL_MEMORY": 268435456,

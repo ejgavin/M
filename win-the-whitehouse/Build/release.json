@@ -1,7 +1,7 @@
 {
 "companyName": "Filament",
 "productName": "Win the White House",
-"dataUrl": "release.data.unityweb",
+"dataUrl": "https://overloadfiles.vercel.app/win-the-whitehouse/Build/release.data.unityweb",
 "wasmCodeUrl": "release.wasm.code.unityweb",
 "wasmFrameworkUrl": "release.wasm.framework.unityweb",
 "wasmSymbolsUrl": "release.wasm.symbols.unityweb",
